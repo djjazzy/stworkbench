@@ -1,0 +1,8 @@
+C:/Users/tedro/.st_workbench/projects/6STEP-P-NUCLEO-IHM03_SensorlessVoltageMode/Src/stm32g4xx_hal_msp.c:68:6:HAL_MspInit	1
+C:/Users/tedro/.st_workbench/projects/6STEP-P-NUCLEO-IHM03_SensorlessVoltageMode/Src/stm32g4xx_hal_msp.c:99:6:HAL_ADC_MspInit	7
+C:/Users/tedro/.st_workbench/projects/6STEP-P-NUCLEO-IHM03_SensorlessVoltageMode/Src/stm32g4xx_hal_msp.c:189:6:HAL_ADC_MspDeInit	5
+C:/Users/tedro/.st_workbench/projects/6STEP-P-NUCLEO-IHM03_SensorlessVoltageMode/Src/stm32g4xx_hal_msp.c:263:6:HAL_TIM_Base_MspInit	3
+C:/Users/tedro/.st_workbench/projects/6STEP-P-NUCLEO-IHM03_SensorlessVoltageMode/Src/stm32g4xx_hal_msp.c:303:6:HAL_TIM_MspPostInit	2
+C:/Users/tedro/.st_workbench/projects/6STEP-P-NUCLEO-IHM03_SensorlessVoltageMode/Src/stm32g4xx_hal_msp.c:337:6:HAL_TIM_Base_MspDeInit	3
+C:/Users/tedro/.st_workbench/projects/6STEP-P-NUCLEO-IHM03_SensorlessVoltageMode/Src/stm32g4xx_hal_msp.c:385:6:HAL_UART_MspInit	5
+C:/Users/tedro/.st_workbench/projects/6STEP-P-NUCLEO-IHM03_SensorlessVoltageMode/Src/stm32g4xx_hal_msp.c:467:6:HAL_UART_MspDeInit	2

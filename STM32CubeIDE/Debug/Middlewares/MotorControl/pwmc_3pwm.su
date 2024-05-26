@@ -1,0 +1,15 @@
+C:/Users/tedro/.st_workbench/projects/6STEP-P-NUCLEO-IHM03_SensorlessVoltageMode/MCSDK_v6.2.0-Full/MotorControl/MCSDK/MCLib/Any/Src/pwmc_3pwm.c:62:13:ThreePwm_Init	4	static
+C:/Users/tedro/.st_workbench/projects/6STEP-P-NUCLEO-IHM03_SensorlessVoltageMode/MCSDK_v6.2.0-Full/MotorControl/MCSDK/MCLib/Any/Src/pwmc_3pwm.c:107:13:PWMC_SetPhaseVoltage	0	static
+C:/Users/tedro/.st_workbench/projects/6STEP-P-NUCLEO-IHM03_SensorlessVoltageMode/MCSDK_v6.2.0-Full/MotorControl/MCSDK/MCLib/Any/Src/pwmc_3pwm.c:452:13:ThreePwm_ApplyNextStep	4	static
+C:/Users/tedro/.st_workbench/projects/6STEP-P-NUCLEO-IHM03_SensorlessVoltageMode/MCSDK_v6.2.0-Full/MotorControl/MCSDK/MCLib/Any/Src/pwmc_3pwm.c:471:13:ThreePwm_IsFastDemagUpdated	0	static
+C:/Users/tedro/.st_workbench/projects/6STEP-P-NUCLEO-IHM03_SensorlessVoltageMode/MCSDK_v6.2.0-Full/MotorControl/MCSDK/MCLib/Any/Src/pwmc_3pwm.c:481:13:ThreePwm_ResetOCPolarity	0	static
+C:/Users/tedro/.st_workbench/projects/6STEP-P-NUCLEO-IHM03_SensorlessVoltageMode/MCSDK_v6.2.0-Full/MotorControl/MCSDK/MCLib/Any/Src/pwmc_3pwm.c:117:13:ThreePwm_LoadNextStep	24	static
+C:/Users/tedro/.st_workbench/projects/6STEP-P-NUCLEO-IHM03_SensorlessVoltageMode/MCSDK_v6.2.0-Full/MotorControl/MCSDK/MCLib/Any/Src/pwmc_3pwm.c:496:13:ThreePwm_TurnOnLowSides	16	static
+C:/Users/tedro/.st_workbench/projects/6STEP-P-NUCLEO-IHM03_SensorlessVoltageMode/MCSDK_v6.2.0-Full/MotorControl/MCSDK/MCLib/Any/Src/pwmc_3pwm.c:531:13:ThreePwm_SwitchOnPWM	16	static
+C:/Users/tedro/.st_workbench/projects/6STEP-P-NUCLEO-IHM03_SensorlessVoltageMode/MCSDK_v6.2.0-Full/MotorControl/MCSDK/MCLib/Any/Src/pwmc_3pwm.c:578:13:ThreePwm_SetADCTriggerChannel	0	static
+C:/Users/tedro/.st_workbench/projects/6STEP-P-NUCLEO-IHM03_SensorlessVoltageMode/MCSDK_v6.2.0-Full/MotorControl/MCSDK/MCLib/Any/Src/pwmc_3pwm.c:599:13:ThreePwm_SwitchOffPWM	16	static
+C:/Users/tedro/.st_workbench/projects/6STEP-P-NUCLEO-IHM03_SensorlessVoltageMode/MCSDK_v6.2.0-Full/MotorControl/MCSDK/MCLib/Any/Src/pwmc_3pwm.c:630:15:ThreePwm_BRK_IRQHandler	0	static
+C:/Users/tedro/.st_workbench/projects/6STEP-P-NUCLEO-IHM03_SensorlessVoltageMode/MCSDK_v6.2.0-Full/MotorControl/MCSDK/MCLib/Any/Src/pwmc_3pwm.c:638:6:ThreePwm_ResetEnablePins	4	static
+C:/Users/tedro/.st_workbench/projects/6STEP-P-NUCLEO-IHM03_SensorlessVoltageMode/MCSDK_v6.2.0-Full/MotorControl/MCSDK/MCLib/Any/Src/pwmc_3pwm.c:650:16:ThreePwm_FastDemagFlag	0	static
+C:/Users/tedro/.st_workbench/projects/6STEP-P-NUCLEO-IHM03_SensorlessVoltageMode/MCSDK_v6.2.0-Full/MotorControl/MCSDK/MCLib/Any/Src/pwmc_3pwm.c:668:13:ThreePwm_UpdatePwmDemagCounter	0	static
+C:/Users/tedro/.st_workbench/projects/6STEP-P-NUCLEO-IHM03_SensorlessVoltageMode/MCSDK_v6.2.0-Full/MotorControl/MCSDK/MCLib/Any/Src/pwmc_3pwm.c:679:13:ThreePwm_DisablePwmDemagCounter	0	static

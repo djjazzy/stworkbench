@@ -1,0 +1,2 @@
+C:/Users/tedro/.st_workbench/projects/6STEP-P-NUCLEO-IHM03_SensorlessVoltageMode/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_flash_ramfunc.c:92:30:HAL_FLASHEx_EnableRunPowerDown	0	static
+C:/Users/tedro/.st_workbench/projects/6STEP-P-NUCLEO-IHM03_SensorlessVoltageMode/Drivers/STM32G4xx_HAL_Driver/Src/stm32g4xx_hal_flash_ramfunc.c:106:30:HAL_FLASHEx_DisableRunPowerDown	0	static

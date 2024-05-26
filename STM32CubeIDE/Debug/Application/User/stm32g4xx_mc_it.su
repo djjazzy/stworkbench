@@ -1,0 +1,9 @@
+C:/Users/tedro/.st_workbench/projects/6STEP-P-NUCLEO-IHM03_SensorlessVoltageMode/Src/stm32g4xx_mc_it.c:71:6:ADC1_2_IRQHandler	0	static
+C:/Users/tedro/.st_workbench/projects/6STEP-P-NUCLEO-IHM03_SensorlessVoltageMode/Src/stm32g4xx_mc_it.c:99:6:TIM2_IRQHandler	8	static
+C:/Users/tedro/.st_workbench/projects/6STEP-P-NUCLEO-IHM03_SensorlessVoltageMode/Src/stm32g4xx_mc_it.c:130:6:TIM1_UP_TIM16_IRQHandler	0	static
+C:/Users/tedro/.st_workbench/projects/6STEP-P-NUCLEO-IHM03_SensorlessVoltageMode/Src/stm32g4xx_mc_it.c:143:6:TIM1_BRK_TIM15_IRQHandler	8	static
+C:/Users/tedro/.st_workbench/projects/6STEP-P-NUCLEO-IHM03_SensorlessVoltageMode/Src/stm32g4xx_mc_it.c:181:6:DMA1_Channel1_IRQHandler	0	static
+C:/Users/tedro/.st_workbench/projects/6STEP-P-NUCLEO-IHM03_SensorlessVoltageMode/Src/stm32g4xx_mc_it.c:209:6:USART2_IRQHandler	8	static,ignoring_inline_asm
+C:/Users/tedro/.st_workbench/projects/6STEP-P-NUCLEO-IHM03_SensorlessVoltageMode/Src/stm32g4xx_mc_it.c:285:6:HardFault_Handler	8	static
+C:/Users/tedro/.st_workbench/projects/6STEP-P-NUCLEO-IHM03_SensorlessVoltageMode/Src/stm32g4xx_mc_it.c:303:6:SysTick_Handler	8	static
+C:/Users/tedro/.st_workbench/projects/6STEP-P-NUCLEO-IHM03_SensorlessVoltageMode/Src/stm32g4xx_mc_it.c:331:6:EXTI15_10_IRQHandler	0	static
